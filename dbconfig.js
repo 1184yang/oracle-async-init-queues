@@ -1,7 +1,7 @@
 module.exports = {
   xepdb1: {
     user: "demo",
-    password: "demo6460",
+    password: "secret",
     connectString: "localhost:1521/xepdb1",
     poolAlias: 'xedemo',
     poolMin: 3,
